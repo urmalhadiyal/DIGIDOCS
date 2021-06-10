@@ -1,0 +1,16 @@
+﻿.scrollbar {
+  height: 100%;
+  background: #fff;
+  overflow: scroll auto;
+  max-height: 300px;
+  margin: 0 auto;
+  padding: 0.1em;
+  margin-bottom:-2%;
+  scrollbar-arrow-color:black;
+  overflow-x:hidden;
+}
+
+.colorheader
+{
+    background:url(img/01.jpg)
+}
